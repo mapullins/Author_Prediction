@@ -2,7 +2,7 @@
 This is a personal project to see if the author of a text can be predicted using only statistics about a passage of text. Included are the data sets created, the python code used to create the data sets, and the models created to predict the author, along with analysis.
 
 ## General Information
-All text were taken from Project Gutenberg (http://www.gutenberg.org/).
+All texts were taken from Project Gutenberg (http://www.gutenberg.org/).
 
 ## Technologies
 * Python 3.8 (NumPy, Pandas, NLTK, and Re required)
