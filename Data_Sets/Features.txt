@@ -1,0 +1,53 @@
+Author: Author of the passage
+Title: Book containing the passage
+Q_Count: # of question marks
+E_Count: # of exclaimation marks
+SC_Count: # of semicolons
+C_Count: # of colons
+D_Count: # of double dashes (i.e. --)
+Co_Count: # of commas
+Qu_Count: # of quotation marks divided by two (includes single quotes)
+Pa_Count: # of left parentheses
+Sent_Count: # of sentences
+Hyphen_Count: # of words with a hyphen
+Word_Num: # of words (excludes punctuation)
+Unique_Words: # of unique words (excludes punctuation)
+Word_Length_Av: Average length of unique words
+
+The features after this row were extracted from python's NLTK module using pos_tagging
+-----------------------------------------------------------------
+CC: # of coordinating conjunctions
+CD: # of cardinal digits
+DT: # of determiners
+EX: # of existential 'there'
+FW: # of foreign words
+IN: # of prepositions and subordinating conjunctions
+JJ: # of adjectives
+JJR: # of comparative adjectives
+JJS: # of superlative adjectives
+LS: # of list markers
+MD: # of modal words
+NN: # of singular nouns
+NNS: # of plural nouns
+NNP: # of proper singular nouns
+NNPS: # of proper plural nouns
+PDT: # of predeterminers
+POS: # of possessive markers
+PRP: # of personal pronouns
+PRP$: # of possessive pronouns
+RB: # of abverbs
+RBR: # of comparative adverbs
+RBS: # of superlative adverbs
+RP: # of particles
+TO: # of the word 'to'
+UH: # of interjections
+VB: # of base form verbs
+VBD: # of past tense verbs
+VBG: # of gerund/present participle verbs
+VBN: # of past participle verbs
+VBP: # of singular present, non-3rd person verbs
+VBZ: # of present, 3rd person singular verbs
+WDT: # of wh-determiners
+WP: # of wh-pronouns
+WP$: # of wh-possessive pronouns
+WRB: # of wh-abverbs
